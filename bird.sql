@@ -1,0 +1,2 @@
+INSERT INTO communitys (id, user_id, community_name, community_name_cn, community_category, community_category_cn, created_at) VALUES
+  (6, 1, 'linux', 'Linux', 'os', '操作系统', '2019-06-08 13:00:26.353041');
